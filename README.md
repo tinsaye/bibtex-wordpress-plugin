@@ -25,6 +25,7 @@ Two of the most popular frameworks for Wordpress Plugins are Herbert and WordPre
 Even WPPD has no official documentation, I would prefere using it because of the simplicity and better support. Beside that it gives a good structure and enough independency.
 
 **Recourses:**
+
 https://wpbean.com/wordpress-plugin-development-frameworks-and-resources/
 https://www.sagenda.com/wordpress-plugin-framework-review/
 https://wptavern.com/herbert-a-new-wordpress-plugin-framework

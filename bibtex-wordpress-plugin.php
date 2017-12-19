@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       BibTex Wordpress Plugin
  * Plugin URI:        https://github.com/tinsaye/bibtex-wordpress-plugin
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Dynamic listing of publications (from BibTex and/or BibSonomy) in pages or posts.
  * Version:           1.0.0
  * Author:            Tinsaye Abye
  * Author URI:        https://github.com/tinsaye

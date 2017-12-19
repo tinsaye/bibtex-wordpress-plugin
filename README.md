@@ -25,28 +25,28 @@ Two of the most popular frameworks for Wordpress Plugins are Herbert and WordPre
 Altouth WPPD has no official documentation, I would prefere using it because of the simplicity and better support. Beside that it gives a good structure and enough independency.
 
 ## Work packages
-* project initialisation
-** init the plugin using wppb
-** way to install the plugin in a wordpress site for demonstration and testing
-** installation instruction
-** init admin interface (without functionality)
+* initialize project
+    * init the plugin using wppb
+    * way to install the plugin in a wordpress site for demonstration and testing
+    * installation instruction
+    * init admin interface (without functionality)
 
 * prototype
-** it should be possible to upload or input a bibtex file in the settings section that will be used to generate simple table under a specific page
-** with this the plugin is able to convert BibTex to HTML
+    * it should be possible to upload or input a bibtex file in the settings section that will be used to generate simple table under a specific page
+    * with this the plugin is able to convert BibTex to HTML
 
 * BibSonomy integration
-** listing publications from BibSonomy 
-** consists getting a BibTex from Bibsonomy and displaying that using the prototyope
+    * listing publications from BibSonomy 
+    * consists getting a BibTex from Bibsonomy and displaying that using the prototyope
 
 * dynamic listing
-** filtere and mange the table ( for example year, author ...)
+    * filter and mange the table ( for example year, author ...)
 
 * view publications
-** display publications on the website
+    * display publications on the website
 
-* Manage Bibsonomy
-** post publications on BibSonomy from the plugin
+* manage BibSonomy
+    * post publications on BibSonomy from the plugin
 
 **Recourses:**
 
